@@ -1,0 +1,26 @@
+*{
+    background-color: bisque ;
+}
+
+.container {
+    position: center;
+    width: 900px;
+    height: 600px;
+}
+.rectangle {
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    width: 500px;
+    height: 300px;
+    background-color: blue;
+}
+.circle {
+    position: absolute;
+    top: 400px;
+    left: 450px;
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 50%;
+}
